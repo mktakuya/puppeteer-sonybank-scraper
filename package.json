@@ -1,0 +1,19 @@
+{
+  "name": "puppeteer-sonybank-scraper",
+  "version": "0.0.1",
+  "main": "index.js",
+  "author": "Takuya Mukohira <takuya.mk96@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "lint": "eslint .",
+    "lint:fix": "eslint --fix ."
+  },
+  "dependencies": {
+    "puppeteer": "^10.1.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.31.0",
+    "prettier": "^2.3.2"
+  }
+}
